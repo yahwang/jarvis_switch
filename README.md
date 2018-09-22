@@ -26,7 +26,7 @@
 </tr>
 </table><br>
  
-예시 : &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 가습기를 켜줘 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1번에 전화 걸어줘
+예시 : &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 가습기를 켜줘 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1번에 전화 걸어줘
 
 &emsp;&emsp;<img src="./img/hand_humid.gif" width="170px" alt="hand_humid">
 <img src="./img/hand_on.gif" width="170px" alt="hand_on">
@@ -43,7 +43,7 @@
 <img src="./img/hand_on.gif" width="210px" alt="hand_on">
 <img src="./img/hand_off.gif" width="210px" alt="hand_off">
 
-&emsp;&emsp;&emsp;&emsp; 핸드폰(Phone) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1(One) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2(Two)
+&emsp;&emsp;&emsp;&emsp; 핸드폰(Phone) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1(One) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2(Two)
 
 &emsp;<img src="./img/hand_phone.gif" width="210px" alt="hand_phone">
 <img src="./img/hand_1.gif" width="210px" alt="hand_one">
