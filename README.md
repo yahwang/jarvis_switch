@@ -1,5 +1,7 @@
 # 포스텍 정보통신연구소 3기 연구인턴 프로젝트
 
+[SourceCode - gitlab](https://gitlab.com/pirl-intern/smart-switch)
+
 ## J.A.R.V.I.S. Switch 
 
 [Objectifier Spatial Programming](https://experiments.withgoogle.com/objectifier-spatial-programming)에서 영감을 받음
@@ -106,7 +108,7 @@ PC(서버) 실행 후 wait camera connection 문장이 나오면 카메라를 �
 
 스위치1, 스위치2, 안드로이드는 그 후 실행가능하며, 연결을 끊고 재접속이 가능하다. (socketserver)
 
-```
+``` 
 PC(서버)  -  (opencv가 설치된 가상환경) python pred_origin.py
 라즈베리파이_카메라  -  python3 picam.py 8003
 라즈베리파이_스위치1  -  python3 client_switch1.py 9008
