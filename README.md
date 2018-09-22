@@ -90,8 +90,8 @@ tracker 기능 : 손의 이동을 감지하고 손이 화면 내 어디에 위�
 
 ### 적용 모델
 
-<img src="./img/cnnmodel1.jpg" width="440px" alt="cnnmodel1">
-<img src="./img/cnnmodel2.jpg" width="440px" alt="cnnmodel2">
+&emsp;<img src="./img/cnnmodel1.jpg" width="420px" alt="cnnmodel1">
+<img src="./img/cnnmodel2.jpg" width="420px" alt="cnnmodel2">
 
 ## 프로그램 실행방법
 
