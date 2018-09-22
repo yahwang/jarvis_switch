@@ -1,6 +1,6 @@
 # 포스텍 정보통신연구소 3기 연구인턴 프로젝트
 
-[SourceCode - gitlab](https://gitlab.com/pirl-intern/smart-switch)
+<a href=https://gitlab.com/pirl-intern/smart-switch target=_self>SourceCode 확인 - gitlab</a>
 
 ## J.A.R.V.I.S. Switch 
 
