@@ -53,7 +53,7 @@
 
 ##### 라즈베리파이 기기 내부 구조
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;카메라&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;스위치(1, 2) - Relay 모듈&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3D프린터
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;카메라&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;스위치(1, 2) - Relay 모듈&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3D프린터
 
 &emsp;<img src="./img/hardware_picam.jpg" width="80px" alt="hardware_picam">
 <img src="./img/picamera.jpg" width="190px" alt="picamera">
