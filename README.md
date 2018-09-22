@@ -6,7 +6,9 @@
 
 ### 손동작으로 작동하는 인공지능 IoT
 
-파이카메라를 통해 실시간으로 영상을 전달받은 PC(서버)가 손동작을 인식하고 해당 스위치에 ON/OFF 명령을 내린다.  ( Wifi 통신 )  
+파이카메라를 통해 실시간으로 영상을 전달받은 PC(서버)가 손동작을 인식하고 
+
+해당 스위치에 ON/OFF 명령을 내린다. ( Wifi 통신 )  
 
 ### [YouTube 시연 영상](https://youtu.be/gNL3EOQ2y9g)
 
@@ -63,7 +65,7 @@
 
 ##### 안드로이드
 
-<img src="./img/android_screen1.jpg" width="200px" alt="android1">
+&emsp;<img src="./img/android_screen1.jpg" width="200px" alt="android1">
 <img src="./img/android_screen3.jpg" width="200px" alt="android3">
 <img src="./img/android_screen2.jpg" width="200px" alt="android2">
 
