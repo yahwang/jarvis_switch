@@ -2,11 +2,9 @@
 
 <a href="https://gitlab.com/pirl-intern/smart-switch" target="_blank">SourceCode 확인 - gitlab</a>
 
-## J.A.R.V.I.S. Switch 
+## J.A.R.V.I.S. Switch - 손동작으로 작동하는 인공지능 IoT
 
 [Objectifier Spatial Programming](https://experiments.withgoogle.com/objectifier-spatial-programming)에서 영감을 받음
-
-### 손동작으로 작동하는 인공지능 IoT
 
 파이카메라를 통해 실시간으로 영상을 전달받은 PC(서버)가 손동작을 인식하고 
 
