@@ -38,10 +38,10 @@
 
 &emsp;&emsp;&emsp;&emsp; 무드등(LIGHT) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 가습기(Humidifier) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 켜다(ON) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 끄다(OFF)
 
-<img src="./img/hand_light.gif" width="200px" alt="hand_light">
-<img src="./img/hand_humid.gif" width="200px" alt="hand_humid">
-<img src="./img/hand_on.gif" width="200px" alt="hand_on">
-<img src="./img/hand_off.gif" width="200px" alt="hand_off">
+<img src="./img/hand_light.gif" width="180px" alt="hand_light">
+<img src="./img/hand_humid.gif" width="180px" alt="hand_humid">
+<img src="./img/hand_on.gif" width="180px" alt="hand_on">
+<img src="./img/hand_off.gif" width="180px" alt="hand_off">
 
 &emsp;&emsp;&emsp;&emsp; 핸드폰(Phone) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1(One) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2(Two)
 
