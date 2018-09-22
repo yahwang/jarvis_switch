@@ -53,13 +53,13 @@
 
 ##### 라즈베리파이 기기 내부 구조
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;카메라&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;스위치(1, 2) - Relay 모듈&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3D프린터
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;카메라&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;스위치(1, 2) - Relay 모듈&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3D프린터
 
-<img src="./img/hardware_picam.jpg" width="90px" alt="hardware_picam">
-<img src="./img/picamera.jpg" width="200px" alt="picamera">
-<img src="./img/hardware_switch.jpg" width="70px" alt="hardware_switch">
-<img src="./img/switch.jpg" width="280px" alt="switch">
-<img src="./img/3dprinter.png" width="220px" alt="3dprinter">
+&emsp;<img src="./img/hardware_picam.jpg" width="80px" alt="hardware_picam">
+<img src="./img/picamera.jpg" width="190px" alt="picamera">
+<img src="./img/hardware_switch.jpg" width="60px" alt="hardware_switch">
+<img src="./img/switch.jpg" width="270px" alt="switch">
+<img src="./img/3dprinter.png" width="210px" alt="3dprinter">
 
 ##### 안드로이드
 
